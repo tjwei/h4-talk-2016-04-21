@@ -4,8 +4,8 @@ from matplotlib import font_manager as fm
 import matplotlib as mpl
 import pandas as pd
 import requests
-from pokereval import PokerEval
-pokereval=PokerEval()
+#from pokereval import PokerEval
+#pokereval=PokerEval()
 from bs4 import  BeautifulSoup
 from ipywidgets import interact, fixed
 import ipywidgets as widgets
